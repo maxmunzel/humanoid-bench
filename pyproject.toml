@@ -1,9 +1,11 @@
 [project]
-name="humanoid_bench"
-version="0.2"
-author="RLL at UC Berkeley"
-url="https://github.com/carlosferrazza/humanoid-bench"
-description="Humanoid Benchmark"
+name = "humanoid_bench"
+version = "0.2"
+authors = [
+      {name = "RLL at UC Berkeley"}
+]
+urls = { Repository = "https://github.com/carlosferrazza/humanoid-bench" }
+description = "Humanoid Benchmark"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
